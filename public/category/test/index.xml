@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>test | Tina Lasisi</title>
+    <link>/category/test/</link>
+      <atom:link href="/category/test/index.xml" rel="self" type="application/rss+xml" />
+    <description>test</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 29 Dec 2017 12:15:02 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>test</title>
+      <link>/category/test/</link>
+    </image>
+    
+    <item>
+      <title>test</title>
+      <link>/cv/</link>
+      <pubDate>Fri, 29 Dec 2017 12:15:02 +0000</pubDate>
+      <guid>/cv/</guid>
+      <description>
+&lt;/head&gt;
+&lt;body id=&#34;top&#34;&gt;
+&lt;div id=&#34;cv&#34; class=&#34;instaFade&#34;&gt;
+	&lt;div class=&#34;mainDetails&#34;&gt;
+		&lt;div id=&#34;name&#34;&gt;
+			&lt;h1 class=&#34;quickFade delayOne&#34;&gt;Hermione Granger&lt;/h1&gt;
+		&lt;/div&gt;
+
+		&lt;div id=&#34;contactDetails&#34; class=&#34;quickFade delayTwo&#34;&gt;
+			&lt;ul class=&#34;fa-ul&#34;&gt;
+				&lt;li&gt;&lt;i class=&#34;fa-li fa fa-envelope&#34; id=&#34;icon&#34;&gt;&lt;/i&gt;Email: &lt;a href=&#34;mailto:YOUR EMAIL&#34; target=&#34;_blank&#34;&gt;viktorkrumfan14@magic.com&lt;/a&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;i class=&#34;fa-li fa fa-user&#34; id=&#34;icon&#34;&gt;&lt;/i&gt;Website: &lt;a href=&#34;pottermore.com&#34; target=&#34;_blank&#34;&gt;pottermore.com&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;i class=&#34;fa-li fa fa-github&#34; id=&#34;icon&#34;&gt;&lt;/i&gt;GitHub: &lt;a href=&#34;YOUR GITHUB&#34; target=&#34;_blank&#34;&gt;github.com/hermione&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;i class=&#34;fa-li fa fa-twitter&#34; id=&#34;icon&#34;&gt;&lt;/i&gt;Twitter: &lt;a href=&#34;twitter.com/hermionegranger&#34; target=&#34;_blank&#34;&gt;twitter.com/hermionegranger&lt;/a&gt;&lt;/li&gt;
+			&lt;/ul&gt;
+		&lt;/div&gt;
+		&lt;br /&gt;
+		&lt;div class=&#34;clear&#34;&gt;&lt;/div&gt;
+	&lt;/div&gt;
+
+	&lt;div id=&#34;mainArea&#34; class=&#34;quickFade delayThree&#34;&gt;
+		&lt;section&gt;
+			&lt;div class=&#34;sectionTitle&#34;&gt;
+				&lt;h1&gt;Executive Summary&lt;/h1&gt;
+			&lt;/div&gt;
+
+			&lt;div class=&#34;sectionContent&#34;&gt;
+				&lt;article&gt;
+					&lt;ul class=&#34;executiveSummary&#34;&gt;
+						&lt;li&gt;Couragous and quick-witted witch with expertise in transfiguation, charms, and history of magic&lt;/li&gt;
+						&lt;li&gt;Successfully brewed polyjuice potion as a second-year student at Hogwarts&lt;/li&gt;
+						&lt;li&gt;Earned 10 outstanding O.W.L.s&lt;/li&gt;
+						&lt;li&gt;Found of the Society for the Promotion of Elvish Welfare and organizer of Dumbledoor&#39;s Army&lt;/li&gt;
+						&lt;li&gt;Played an instrumental part in the destruction of horcruxes and defeat of the dark lord Voldemort&lt;/li&gt;
+					&lt;/ul&gt;
+				&lt;/article&gt;
+			&lt;/div&gt;
+    		&lt;div class=&#34;clear&#34;&gt;&lt;/div&gt;
+			&lt;br /&gt;
+		&lt;/section&gt;
+
+    	&lt;section&gt;
+			&lt;div class=&#34;sectionTitle&#34;&gt;
+				&lt;h1&gt;Education&lt;/h1&gt;
+			&lt;/div&gt;
+
+			&lt;div class=&#34;sectionContent&#34;&gt;
+				&lt;article&gt;
+					&lt;span class=&#34;contentHeader&#34;&gt;PhD in witchcraft&lt;/span&gt;
+					&lt;span class=&#34;contentDate&#34;&gt;May 2006&lt;/span&gt;
+					&lt;p class=&#34;subDetails&#34;&gt;Hogwarts School of Witchcraft and Wizardry&lt;/p&gt;
+				&lt;/article&gt;
+				&lt;article&gt;
+					&lt;span class=&#34;contentHeader&#34;&gt;BSc in muggle studies&lt;/span&gt;
+					&lt;span class=&#34;contentDate&#34;&gt;May 2004&lt;/span&gt;
+					&lt;p class=&#34;subDetails&#34;&gt;Hogwarts School of Witchcraft and Wizardry&lt;/p&gt;
+				&lt;/article&gt;
+			&lt;/div&gt;
+			&lt;div class=&#34;clear&#34;&gt;&lt;/div&gt;
+			&lt;br /&gt;
+		&lt;/section&gt;
+
+		&lt;section&gt;
+			&lt;div class=&#34;sectionTitle&#34;&gt;
+				&lt;h1&gt;Research Experience&lt;/h1&gt;
+			&lt;/div&gt;
+
+			&lt;div class=&#34;sectionContent&#34;&gt;
+
+				&lt;article&gt;
+					&lt;span class=&#34;contentHeader&#34;&gt;Sassy B&lt;/span&gt;
+					&lt;span class=&#34;contentDate&#34;&gt;1999 - present&lt;/span&gt;
+					&lt;p class=&#34;subDetails&#34;&gt;Advisor: me, myself, and I&lt;/p&gt;
+					&lt;p class=&#34;subDetails&#34;&gt;
+						&lt;ul&gt;
+							&lt;li&gt;&#34;Are you doing magic? Well, let&#39;s see it then.&#34;&lt;/li&gt;
+							&lt;li&gt;&#34;Are you sure that&#39;s a real spell? Well, it&#39;s not very good is it.&#34;&lt;/li&gt;
+						&lt;/ul&gt;
+					&lt;/p&gt;
+				&lt;/article&gt;
+				&lt;br /&gt;
+				&lt;article&gt;
+					&lt;span class=&#34;contentHeader&#34;&gt;Tutor&lt;/span&gt;
+					&lt;span class=&#34;contentDate&#34;&gt;2004 - 2008&lt;/span&gt;
+					&lt;p class=&#34;subDetails&#34;&gt;Hogwarts&lt;/p&gt;
+					&lt;p class=&#34;subDetails&#34;&gt;
+						&lt;ul&gt;
+							&lt;li&gt;
+								Frequently tutored fellow Gryffindor students, particularly Harry Potter and Ronald Weasley.
+							&lt;/li&gt;
+						&lt;/ul&gt;
+					&lt;/p&gt;
+				&lt;/article&gt;
+
+			&lt;/div&gt;
+			&lt;div class=&#34;clear&#34;&gt;&lt;/div&gt;
+		&lt;/section&gt;
+
+		&lt;section&gt;
+			&lt;div class=&#34;sectionTitle&#34;&gt;
+				&lt;h1&gt;Publications&lt;/h1&gt;
+			&lt;/div&gt;
+
+			&lt;div class=&#34;publications&#34;&gt;
+				&lt;article&gt;
+				&lt;ol&gt;
+					&lt;li&gt;&lt;b&gt;Granger, H.&lt;/b&gt; (2001) It&#39;s leviOsa, not levioSA. &lt;/li&gt;
+					&lt;li&gt;&lt;b&gt;Granger, H.&lt;/b&gt;, Weasley, R., Potter H. (2020). Not-so-magical Me: The True Story of Gilderoy Lockhart.&lt;/li&gt;
+				&lt;/ol&gt;
+				&lt;/article&gt;
+			&lt;/div&gt;
+			&lt;div class=&#34;clear&#34;&gt;&lt;/div&gt;
+		&lt;/section&gt;
+
+		&lt;section&gt;
+			&lt;div class=&#34;sectionTitle&#34;&gt;
+				&lt;h1&gt;Awards&lt;/h1&gt;
+			&lt;/div&gt;
+
+			&lt;div class=&#34;sectionContent&#34;&gt;
+				&lt;article&gt;
+					&lt;span class=&#34;contentHeader&#34;&gt;Time turner&lt;/span&gt;
+					&lt;span class=&#34;contentDate&#34;&gt;August 2003&lt;/span&gt;
+					&lt;p class=&#34;subDetails&#34;&gt;Was entrusted with the use of a time turner to allow enrollment in overlapping courses at Hogwarts&lt;/p&gt;
+				&lt;/article&gt;
+			&lt;/div&gt;
+
+			&lt;div class=&#34;clear&#34;&gt;&lt;/div&gt;
+			&lt;br /&gt;
+		&lt;/section&gt;
+
+		&lt;section&gt;
+			&lt;div class=&#34;sectionTitle&#34;&gt;
+				&lt;h1&gt;Skills&lt;/h1&gt;
+			&lt;/div&gt;
+
+			&lt;div class=&#34;sectionContent&#34;&gt;
+				&lt;b&gt;Magic Skills&lt;/b&gt;
+				&lt;ul class=&#34;keySkills&#34;&gt;
+					&lt;li&gt;Petrificus totalus&lt;/li&gt;
+					&lt;li&gt;Proficient in polyjuice potion brewing&lt;/li&gt;
+					&lt;li&gt;Can cast a corporeal petronus charm&lt;/li&gt;
+					&lt;li&gt;Can cast a protean charm&lt;/li&gt;
+					&lt;li&gt;Expert in non-verbal magic&lt;/li&gt;
+				&lt;/ul&gt;
+				&lt;b&gt;Other Skills&lt;/b&gt;
+				&lt;ul class=&#34;keySkills&#34;&gt;
+					&lt;li&gt;Highly skilled researcher&lt;/li&gt;
+					&lt;li&gt;Proficient in reading runes&lt;/li&gt;
+					&lt;li&gt;Expert on the history of magic&lt;/li&gt;
+			&lt;/div&gt;
+			&lt;div class=&#34;clear&#34;&gt;&lt;/div&gt;
+		&lt;/section&gt;
+
+		&lt;section&gt;
+			&lt;div class=&#34;sectionTitle&#34;&gt;
+				&lt;h1&gt;References&lt;/h1&gt;
+			&lt;/div&gt;
+				&lt;article&gt;
+					&lt;div class=&#34;container&#34;&gt;
+						&lt;div class=&#34;box&#34;&gt;
+							&lt;div class=&#34;vcard&#34;&gt;
+				  				&lt;span class=&#34;fn&#34;&gt;&lt;b&gt;Minerva McGonagall&lt;/b&gt;&lt;/span&gt;
+				  				&lt;div class=&#34;title&#34;&gt;Headmistress&lt;/div&gt;
+				  				&lt;div class=&#34;org&#34;&gt;Hogwarts School of Witchcraft and Wizardry&lt;/div&gt;
+				  				&lt;div&gt;Relationship: Professor&lt;/div&gt;
+				  					&lt;a class=&#34;email&#34; href=&#34;mailto:mcgonagall@hogwarts.edu&#34;&gt;mcgonagall@hogwarts.edu&lt;/a&gt;
+				  				&lt;div class=&#34;tel&#34;&gt;(000) 000-0000&lt;/div&gt;
+				  				&lt;div class=&#34;adr&#34;&gt;
+				    			&lt;div class=&#34;street-address&#34;&gt;Hogwarts Castle&lt;/div&gt;
+				   					&lt;span class=&#34;locality&#34;&gt;Highlands&lt;/span&gt;,
+				    				&lt;span class=&#34;region&#34;&gt;Scotland&lt;/span&gt;,
+				    				&lt;span class=&#34;postal-code&#34;&gt;00000&lt;/span&gt;
+				    				&lt;span class=&#34;country-name&#34;&gt;Great Brittain&lt;/span&gt;
+			 					&lt;/div&gt;
+							&lt;/div&gt;
+						&lt;/div&gt;
+
+					  	&lt;div class=&#34;box&#34;&gt;
+							&lt;div class=&#34;vcard&#34;&gt;
+				  				&lt;span class=&#34;fn&#34;&gt;&lt;b&gt;Harry James Potter&lt;/b&gt;&lt;/span&gt;
+				  				&lt;div class=&#34;title&#34;&gt;Head of Department of Magical Law Enforcement&lt;/div&gt;
+				  				&lt;div class=&#34;org&#34;&gt;The Ministry of Magic&lt;/div&gt;
+				  				&lt;div&gt;Relationship: Best friend :)&lt;/div&gt;
+				  					&lt;a class=&#34;email&#34; href=&#34;mailto:potter@magic.org&#34;&gt;potter@magic.org&lt;/a&gt;
+				  				&lt;div class=&#34;tel&#34;&gt;(000) 000-0000&lt;/div&gt;
+				  				&lt;div class=&#34;adr&#34;&gt;
+				    			&lt;div class=&#34;street-address&#34;&gt;Ministry of Magic&lt;/div&gt;
+				   					&lt;span class=&#34;locality&#34;&gt;Westminster&lt;/span&gt;,
+				    				&lt;span class=&#34;region&#34;&gt;London&lt;/span&gt;,
+				    				&lt;span class=&#34;postal-code&#34;&gt;00000&lt;/span&gt;
+				    				&lt;span class=&#34;country-name&#34;&gt;England&lt;/span&gt;
+				 				&lt;/div&gt;
+							&lt;/div&gt;
+						&lt;/div&gt;
+
+					&lt;div class=&#34;box&#34;&gt;
+						&lt;div class=&#34;vcard&#34;&gt;
+			  				&lt;span class=&#34;fn&#34;&gt;&lt;b&gt;Neville Longbottom&lt;/b&gt;&lt;/span&gt;
+			  				&lt;div class=&#34;title&#34;&gt;Professor of Herbology&lt;/div&gt;
+			  				&lt;div class=&#34;org&#34;&gt;Hogwarts School of Witchcraft and Wizardry&lt;/div&gt;
+			  				&lt;div&gt;Relationship: Friend :)&lt;/div&gt;
+			  					&lt;a class=&#34;email&#34; href=&#34;longbottom@hogwarts.edu&#34;&gt;longbottom@hogwarts.edu&lt;/a&gt;
+			  				&lt;div class=&#34;adr&#34;&gt;
+			    			&lt;div class=&#34;street-address&#34;&gt;Hogwarts Castle&lt;/div&gt;
+			   					&lt;span class=&#34;locality&#34;&gt;Highlands&lt;/span&gt;,
+			    				&lt;span class=&#34;region&#34;&gt;Scotland&lt;/span&gt;,
+			    				&lt;span class=&#34;postal-code&#34;&gt;00000&lt;/span&gt;
+			    				&lt;span class=&#34;country-name&#34;&gt;Great Brittain&lt;/span&gt;
+			 				&lt;/div&gt;
+						&lt;/div&gt;
+					&lt;/div&gt;
+					&lt;/div&gt;
+				&lt;/article&gt;
+			&lt;div class=&#34;clear&#34;&gt;&lt;/div&gt;
+		&lt;/section&gt;
+
+		&lt;section&gt;
+			&lt;p&gt;
+				&lt;a href=&#34;#top&#34;&gt;Back to top&lt;/a&gt;
+			&lt;/p&gt;
+		&lt;/section&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+
+&lt;!-- Responsive HTML/CSS CV template --&gt;
+&lt;!-- Originally by Thomas Hardy; adapted by William Chase and Leslie Myint --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

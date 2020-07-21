@@ -1,0 +1,11 @@
+# Font style metadata
+name = "Custom"
+
+# Optional Google font URL
+google_fonts = "Source+Code+Pro|Source+Sans+Pro:400italic,400,700|Source+Serif+Pro:400,700"
+
+# Font families
+heading_font = "Source Serif Pro"
+body_font = "Source Sans Pro"
+nav_font = "Source Sans Pro"
+mono_font = "Source Code Pro"

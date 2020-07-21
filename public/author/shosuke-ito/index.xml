@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shosuke Ito | Tina Lasisi</title>
+    <link>/author/shosuke-ito/</link>
+      <atom:link href="/author/shosuke-ito/index.xml" rel="self" type="application/rss+xml" />
+    <description>Shosuke Ito</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 09 Mar 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Shosuke Ito</title>
+      <link>/author/shosuke-ito/</link>
+    </image>
+    
+    <item>
+      <title>Quantifying variation in human scalp hair fiber shape and pigmentation</title>
+      <link>/publication/hair_shape_pigment_2016/</link>
+      <pubDate>Wed, 09 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/hair_shape_pigment_2016/</guid>
+      <description>&lt;h1 id=&#34;this-paper-is-great&#34;&gt;This paper is great&lt;/h1&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
